@@ -1,0 +1,2 @@
+# wizserver
+WIZ SERVER
